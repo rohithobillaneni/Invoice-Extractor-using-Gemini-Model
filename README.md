@@ -7,6 +7,15 @@ A simple web application to extract information from invoice images using **Goog
 - **Gemini Integration**: Leverages Google Gemini's AI to understand and interpret invoice data.
 - **Streamlit Interface**: An easy-to-use and interactive interface for users to interact with the model.
 
+## Front-End UI
+
+![image](https://github.com/user-attachments/assets/b65adfab-d46c-48bb-ae58-2196bd094446)
+
+## Output UI
+
+![image](https://github.com/user-attachments/assets/07e35b1f-9e06-41ff-bffe-eea606064e23)
+
+
 ## Installation
 
 ### Prerequisites
