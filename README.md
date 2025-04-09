@@ -1,1 +1,0 @@
-# Invoice-Extractor-using-Gemini-Model
